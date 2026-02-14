@@ -1,0 +1,6 @@
+*.py
+*.sh
+*.txt
+.gitignore
+__pycache__/
+backup/
